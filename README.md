@@ -1,4 +1,4 @@
-# paginaCSS2
+# Agência de viagens - CSS
 
 Projeto do 1° ano para a matéria de Programação Web, utilizando os conhecimentos aprendidos sobre a linguagem de estilo CSS
 
